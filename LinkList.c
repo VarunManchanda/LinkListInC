@@ -1,3 +1,9 @@
+/*
+                         Link-List Program and has all Functions like:-
+                         1)Insertion(at beginning, at end, after specific element, before specifc element)
+                         2)Deletion(from beginning, from end, of specific element, or whole List at a go...)
+                         3)Traversing(also, shows Addresse's of Nodes)
+*/
 #include<stdio.h>
 #include<stdlib.h>
 int start=0,last=0;
